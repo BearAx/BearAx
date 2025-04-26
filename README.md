@@ -13,8 +13,8 @@
 
 ### 📌 Pinned Repos
 <p align="left">
-  <a href="https://github.com/<username>/microservice‑kit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=microservice-kit&theme=default" /></a>
-  <a href="https://github.com/<username>/aws‑infra"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=aws-infra&theme=default" /></a>
+  <a href="https://github.com/BearAx/SSAD_2025/blob/7e3bb559bdddcdfa2414efedbf2307a4e5bf4e92/DirectoryWalker.cpp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=microservice-kit&theme=default" /></a>
+  <a href="[https://github.com/<username>/aws‑infra](https://github.com/BearAx/TCS_2025/blob/b4c25da1b9ec9040d150bd7ebe8da7c51a5d531a/FSA_to_RegExp_Translator.hs)"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=aws-infra&theme=default" /></a>
 </p>
 
 <details>
