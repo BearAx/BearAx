@@ -8,7 +8,7 @@
 
 ### 🔧 Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,docker,gitlab,latex" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,latexdocker,gitlab" />
 </p>
 
 ### 📌 Pinned Repos
