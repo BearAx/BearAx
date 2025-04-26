@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hey there, I’m <Aleksandr Medvedev> <img src="https://raw.githubusercontent.com/<username>/<username>/main/wave.gif" width="30"></h1>
 
-<!--
-**BearAx/BearAx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  --------------------------------
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,aws,docker,kubernetes,postgres" />
+</p>
+
+### 📌 Pinned Repos
+<p align="left">
+  <a href="https://github.com/<username>/microservice‑kit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=microservice-kit&theme=default" /></a>
+  <a href="https://github.com/<username>/aws‑infra"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=aws-infra&theme=default" /></a>
+</p>
+
+<details>
+  <summary>More about me</summary>
+
+  - 🗓 Experience: 1 yrs Java, 2 yrs C++/C#, a bit days of Haskell
+  - 📫 How to reach me: <klorik900@gmail.com>
+</details>
