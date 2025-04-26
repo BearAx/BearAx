@@ -13,8 +13,8 @@
 
 ### 📌 Pinned Repos
 <p align="left">
-  <a href="https://github.com/<BearAx>/DirectoryWalker.cpp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<BearAx>&repo=[DirectoryWalker.cpp](https://github.com/BearAx/SSAD_2025/blob/7e3bb559bdddcdfa2414efedbf2307a4e5bf4e92/DirectoryWalker.cpp)&theme=default" /></a>
-  <a href="https://github.com/<BearAx>/FSA_to_RegExp_Translator.hs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<BearAx>&repo=FSA_to_RegExp_Translator.hs&theme=default" /></a>
+  <a href="https://github.com/<Aleksandr>/DirectoryWalker.cpp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<Aleksandr>&repo=DirectoryWalker.cpp&theme=default" /></a>
+  <a href="https://github.com/<Aleksandr>/FSA_to_RegExp_Translator.hs"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<Aleksandr>&repo=FSA_to_RegExp_Translator.hs&theme=default" /></a>
 </p>
 
 <details>
