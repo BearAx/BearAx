@@ -1,15 +1,26 @@
-# <Aleksandr> — Data Scientist
+<h1 align="center">Hey there, I’m <ALEKSANDR> <img src="https://raw.githubusercontent.com/<username>/<username>/main/wave.gif" width="30"></h1>
 
-> Building reproducible ML pipelines that ship to prod.
+<p align="center">
+  ---------------
+</p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=<BearAx>&style=flat" alt="profile views"/>
-</div>
+---
 
-## 🔬 Current focus
-- Causal inference at scale
-- Vector search & RAG
+### 🔧 Tech stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,docker,gitlab,latex" />
+</p>
 
-## 🛠️ Toolkit
-```bash
-Python · PyTorch · Weights\&Biases · Airflow · Docker · Ray
+### 📌 Pinned Repos
+<p align="left">
+  <a href="https://github.com/<BearAx>/microservice‑kit"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<BearAx>&repo=DirectoryWalker.cpp&theme=default" /></a>
+  <a href="https://github.com/<BearAx>/aws‑infra"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<BearAx>&repo=FSA_to_RegExp_Translator.hs&theme=default" /></a>
+</p>
+
+<details>
+  <summary>More about me</summary>
+
+  - 🗓 Experience:
+  - 📫 How to reach me: <klorik900@gmail.com>
+  - 📝 Latest blog: <blog URL>
+</details>
