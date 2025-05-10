@@ -17,6 +17,14 @@
   <a href="https://github.com/BearAx/TCS_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=TCS_2025&theme=black" /></a>
 </p>
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BearAx&theme=tokyonight&hide_border=true)
+
 <details>
   <summary>More about me</summary>
 
