@@ -1,14 +1,14 @@
-<h1 align="center">Hey there, I’m Aleksandr <img src="https://raw.githubusercontent.com/<username>/<username>/main/wave.gif" width="30"></h1>
+<h1 align="center">Hey there, I’m Aleksandr <img src="https://raw.githubusercontent.com/BearAx/BearAx/main/wave.gif" width="30"></h1>
 
 <p align="center">
-  ---------------
+  Python and C++ developer
 </p>
 
 ---
 
 ### 🔧 Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,latex,docker,gitlab" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,latex,docker" />
 </p>
 
 <!--
