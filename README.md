@@ -33,6 +33,6 @@
   <summary>More about me</summary>
 
   - 🗓 Experience:
-  - 📫 How to reach me (via email): <klorik900@gmail.com>
+  - 📫 How to reach me: <klorik900@gmail.com> <https://t.me/Bear_ax878>
   - 📝 Latest blog: <blog URL>
 </details>
