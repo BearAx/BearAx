@@ -8,7 +8,7 @@
 
 ### 🔧 Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=steepik,py,cpp,cs,java,haskell,latex,docker" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,java,haskell,latex,docker" />
 </p>
 
 <!--
