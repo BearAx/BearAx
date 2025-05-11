@@ -17,7 +17,7 @@
   <a href="https://github.com/BearAx/TCS_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=TCS_2025&theme=black" /></a>
 </p>
 -->
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&theme=tokyonight)
 
