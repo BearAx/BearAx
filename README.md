@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I’m Aleksandr <img src="https://raw.githubusercontent.com/BearAx/BearAx/main/wave.gif" width="30"></h1>
 
 <p align="center">
-  Python and C++ developer
+  Python and C (family) developer
 </p>
 
 ---
