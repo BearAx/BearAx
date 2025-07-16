@@ -8,7 +8,7 @@
 
 ### 🔧 Main Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,haskell" />
+  <img src="https://skillicons.dev/icons?i=haskell,py,cpp" />
 </p>
 
 ### 🔧 Have Experience In
