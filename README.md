@@ -6,9 +6,14 @@
 
 ---
 
-### 🔧 Tech stack
+### 🔧 Main Tech stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,dart,flutter,cpp,cs,java,haskell,latex,docker" />
+  <img src="https://skillicons.dev/icons?i= py, cpp, haskell" />
+</p>
+
+### 🔧 have Experience In
+<p align="left">
+  <img src="https://skillicons.dev/icons?i= dart, flutter, cs, java, latex, docker" />
 </p>
 
 <!--
