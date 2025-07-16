@@ -11,7 +11,7 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,haskell" />
 </p>
 
-### 🔧 have Experience In
+### 🔧 Have Experience In
 <p align="left">
   <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,latex,docker" />
 </p>
