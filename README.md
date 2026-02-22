@@ -1,44 +1,38 @@
-<h1 align="center">Hey there, I’m Aleksandr</h1>
+<div align="center">
 
-<p align="center">
-  Python and C (family) developer
-</p>
+# Alex Medvedev
+**ML / Deep Learning • Research Engineer (Applied)**  
+Improving model quality via **training recipes, data-centric methods, and rigorous evaluation**.
+
+<a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> •
+<a href="https://github.com/BearAx">GitHub</a> •
+<a href="https://www.linkedin.com/in/<your-linkedin>/">LinkedIn</a>
+
+</div>
 
 ---
 
-### 🔧 Main Tech stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=haskell,py,cpp" />
-</p>
+## Focus
+- **Quality improvements:** optimizer/scheduler, regularization, augmentations, EMA, stabilization
+- **Data-centric ML:** filtering, sampling, noise handling, curriculum, hard examples
+- **Evaluation:** ablations, multi-seed, robustness under distribution shift, calibration (ECE)
 
-### 🔧 Have Experience In
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,latex,docker" />
-</p>
+## Stack
+Python • PyTorch • Transformers • W&B/MLflow • Linux • Docker • Git
 
-<!--
-### 📌 Pinned Repos
-<p align="left">
-  <a href="https://github.com/BearAx/SSAD_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=SSAD_2025&theme=black" /></a>
-  <a href="https://github.com/BearAx/TCS_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=TCS_2025&theme=black" /></a>
-</p>
--->
+## Featured Work
+- **vision-recipe-bench** — reproducible vision training recipes + ablation tables + robustness eval  
+  https://github.com/<username>/vision-recipe-bench
+- **nlp-ft-discipline** — strict fine-tuning pipeline + stability by seeds + calibration  
+  https://github.com/<username>/nlp-ft-discipline
+- **small-lm-lab** — small transformer LM training + tokenization/packing/schedule ablations  
+  https://github.com/<username>/small-lm-lab
 
- 📊 GitHub Stats
+## Standards
+- Baseline is reproducible (`train.py` + config)
+- Ablations are controlled (one change at a time)
+- Key comparisons run on **multiple seeds**
+- Results summarized in a short `results.md`
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&theme=tokyonight)
-
-<!--
-![GitHub Streak](https://streak-stats.demolab.com?user=BearAx&theme=tokyonight&hide_border=true)
--->
-
-<details>
-  <summary>More about me</summary>
-
-  - 🗓 Experience:
-  - 📬 How to reach me: klorik900@gmail.com  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Bear_ax878
-  <!-- - 📝 Latest blog: <blog URL> -->
-</details>
+## Contact
+Email: medvedguk@gmail.com
