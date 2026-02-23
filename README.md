@@ -7,8 +7,8 @@ I improve deep learning model quality with reproducible experiments, ablations, 
 
 <hr/>
 
-<a href="mailto:finalharuna24@gmail.com">finalharuna24@gmail.com</a> ·
-<a href="https://github.com/<username>">GitHub</a> ·
+<a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
+<a href="https://github.com/BearAx/<repo>/blob/main/CV.pdf">CV</a> ·
 <a href="https://www.linkedin.com/in/<your-linkedin>/">LinkedIn</a>
 
 </div>
