@@ -1,44 +1,52 @@
-<h1 align="center">Hey there, I’m Aleksandr</h1>
+<div align="center">
 
-<p align="center">
-  Python and C (family) developer
-</p>
+# Alex Medvedev
+**ML Research Engineer • ML Systems & Efficiency**  
+Улучшаю качество DL-моделей и делаю обучение/инференс быстрее и дешевле (reproducible experiments → ablations → robust eval).
+
+<a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
+<a href="https://github.com/BearAx">GitHub</a> ·
+<a href="https://www.linkedin.com/in/<your-linkedin>/">LinkedIn</a>
+
+</div>
 
 ---
 
-### 🔧 Main Tech stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=haskell,py,cpp" />
-</p>
+## Специализация
+- **Quality / Training recipes:** optimizer+schedule, regularization, augmentations, EMA, стабилизация обучения  
+- **Data-centric ML:** filtering, sampling, noise handling, curriculum, hard examples  
+- **Evaluation:** multi-seed, ablations, robustness under shift, calibration (ECE)  
+- **Systems & Efficiency:** profiling, AMP, torch.compile, checkpointing, (DDP/FSDP по необходимости)
 
-### 🔧 Have Experience In
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,cs,java,latex,docker" />
-</p>
+## Tech stack
+**Python · PyTorch · Transformers · CUDA/NVIDIA · Linux · Docker · GitHub Actions · W&B/MLflow**
 
-<!--
-### 📌 Pinned Repos
-<p align="left">
-  <a href="https://github.com/BearAx/SSAD_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=SSAD_2025&theme=black" /></a>
-  <a href="https://github.com/BearAx/TCS_2025"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BearAx&repo=TCS_2025&theme=black" /></a>
-</p>
--->
+---
 
- 📊 GitHub Stats
+## Проекты
+- **vision-recipe-bench** — vision training recipes + абляции + robustness eval  
+  https://github.com/<username>/vision-recipe-bench
+- **nlp-ft-discipline** — строгий fine-tuning пайплайн + стабильность по seed’ам + калибровка  
+  https://github.com/<username>/nlp-ft-discipline
+- **small-lm-lab** — обучение small Transformer LM + tokenization/packing/schedule абляции  
+  https://github.com/<username>/small-lm-lab
+- **ml-systems-lab** — бенчмарки и оптимизации обучения/инференса (AMP/compile/profiling)  
+  https://github.com/<username>/ml-systems-lab
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&theme=tokyonight)
+## GitHub activity
+<div align="center">
 
-<!--
-![GitHub Streak](https://streak-stats.demolab.com?user=BearAx&theme=tokyonight&hide_border=true)
--->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&hide_title=true" />
 
-<details>
-  <summary>More about me</summary>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BearAx" />
 
-  - 🗓 Experience:
-  - 📬 How to reach me: klorik900@gmail.com  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/Bear_ax878
-  <!-- - 📝 Latest blog: <blog URL> -->
-</details>
+<img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&hide_border=true" />
+
+</div>
+
+---
+
+<sub>Шаблон: замени <code>&lt;username&gt;</code> и ссылки на профили/репозитории. Для Profile README создай репозиторий с названием, совпадающим с твоим GitHub username.</sub>
