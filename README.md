@@ -6,7 +6,7 @@
 I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation — and optimize training/inference for speed & cost.
 
 <a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
-<a href="https://raw.githubusercontent.com/BearAx/cv/CV.pdf">CV</a> ·
+<a href="cv.pdf">CV</a> ·
 <a href="https://www.linkedin.com/in/<your-linkedin>/">LinkedIn</a>
 
 </div>
