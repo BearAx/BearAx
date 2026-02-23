@@ -1,12 +1,21 @@
 <div align="center">
 
 # Alex Medvedev
-**ML Research Engineer • Quality & Training Recipes • Systems/Efficiency**  
-I improve deep learning model quality with **reproducible experiments, ablations, data-centric methods, and robust evaluation**—and optimize training/inference for speed & cost.
 
-<a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
-<a href="https://github.com/BearAx">GitHub</a> ·
-<a href="https://www.linkedin.com/in/<your-linkedin>/">LinkedIn</a>
+### ML Research Engineer · Quality & Training Recipes · Systems/Efficiency
+I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation — and optimize training/inference for speed & cost.
+
+<br/>
+
+<a href="mailto:finalharuna24@gmail.com">
+  <img src="https://img.shields.io/badge/Email-finalharuna24%40gmail.com-informational?logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/<username>">
+  <img src="https://img.shields.io/badge/GitHub-%40<username>-181717?logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/<your-linkedin>/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
