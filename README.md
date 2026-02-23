@@ -3,8 +3,6 @@
 
   <p><strong>ML Research Engineer · Quality &amp; Training Recipes · Systems/Efficiency</strong></p>
 
-<hr/>
-
 I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation — and optimize training/inference for speed & cost.
 
 <a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
