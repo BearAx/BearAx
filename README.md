@@ -1,20 +1,26 @@
 <div align="center">
-# Alex Medvedev
-**ML Research Engineer · Quality & Training Recipes · Systems/Efficiency**
-<sub>I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation — and optimize training/inference for speed & cost.</sub>
+  <h1>Alex Medvedev</h1>
 
-<br/>
+  <p><strong>ML Research Engineer · Quality &amp; Training Recipes · Systems/Efficiency</strong></p>
 
-<a href="mailto:medvedguk@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%40gmail.com-informational?logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/<username>">
-  <img src="https://img.shields.io/badge/GitHub-%40<username>-181717?logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/<your-linkedin>/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
-</a>
+  <p>
+    <sub>
+      I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation —
+      and optimize training/inference for speed &amp; cost.
+    </sub>
+  </p>
 
+  <p>
+    <a href="mailto:medvedguk@gmail.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-medvedguk%40gmail.com-informational?logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://github.com/<username>">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%40<username>-181717?logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/<your-linkedin>/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" />
+    </a>
+  </p>
 </div>
 
 ---
