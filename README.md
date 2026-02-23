@@ -1,6 +1,6 @@
 <div align="center">
 # Alex Medvedev
-### ML Research Engineer · Quality & Training Recipes · Systems/Efficiency
+#### ML Research Engineer · Quality & Training Recipes · Systems/Efficiency
 I improve deep learning model quality with reproducible experiments, ablations, data-centric methods, and robust evaluation — and optimize training/inference for speed & cost.
 
 <br/>
