@@ -1,8 +1,8 @@
 <div align="center">
 
 # Alex Medvedev
-**ML Research Engineer • ML Systems & Efficiency**  
-Улучшаю качество DL-моделей и делаю обучение/инференс быстрее и дешевле (reproducible experiments → ablations → robust eval).
+**ML Research Engineer • Quality & Training Recipes • Systems/Efficiency**  
+I improve deep learning model quality with **reproducible experiments, ablations, data-centric methods, and robust evaluation**—and optimize training/inference for speed & cost.
 
 <a href="mailto:medvedguk@gmail.com">medvedguk@gmail.com</a> ·
 <a href="https://github.com/BearAx">GitHub</a> ·
@@ -12,25 +12,25 @@
 
 ---
 
-## Специализация
-- **Quality / Training recipes:** optimizer+schedule, regularization, augmentations, EMA, стабилизация обучения  
-- **Data-centric ML:** filtering, sampling, noise handling, curriculum, hard examples  
-- **Evaluation:** multi-seed, ablations, robustness under shift, calibration (ECE)  
-- **Systems & Efficiency:** profiling, AMP, torch.compile, checkpointing, (DDP/FSDP по необходимости)
+## Specialization
+- **Quality / Training recipes:** optimizer+schedules, regularization, augmentations, EMA, stability
+- **Data-centric ML:** filtering, sampling, noise handling, curriculum, hard example mining
+- **Evaluation:** multi-seed, controlled ablations, robustness under distribution shift, calibration (ECE)
+- **Systems & efficiency:** profiling, AMP, `torch.compile`, checkpointing, (DDP/FSDP when needed)
 
 ## Tech stack
 **Python · PyTorch · Transformers · CUDA/NVIDIA · Linux · Docker · GitHub Actions · W&B/MLflow**
 
 ---
 
-## Проекты
-- **vision-recipe-bench** — vision training recipes + абляции + robustness eval  
+## Featured projects
+- **vision-recipe-bench** — vision training recipes + ablation tables + robustness eval  
   https://github.com/<username>/vision-recipe-bench
-- **nlp-ft-discipline** — строгий fine-tuning пайплайн + стабильность по seed’ам + калибровка  
+- **nlp-ft-discipline** — strict fine-tuning pipeline + seed stability + calibration  
   https://github.com/<username>/nlp-ft-discipline
-- **small-lm-lab** — обучение small Transformer LM + tokenization/packing/schedule абляции  
+- **small-lm-lab** — small Transformer LM training + tokenization/packing/schedule ablations  
   https://github.com/<username>/small-lm-lab
-- **ml-systems-lab** — бенчмарки и оптимизации обучения/инференса (AMP/compile/profiling)  
+- **ml-systems-lab** — training/inference benchmarks & optimizations (AMP/compile/profiling)  
   https://github.com/<username>/ml-systems-lab
 
 ---
@@ -48,5 +48,3 @@
 </div>
 
 ---
-
-<sub>Шаблон: замени <code>&lt;username&gt;</code> и ссылки на профили/репозитории. Для Profile README создай репозиторий с названием, совпадающим с твоим GitHub username.</sub>
