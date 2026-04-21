@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Alex Medvedev</h1>
+  <h1>Aleksandr Medvedev</h1>
 
   <p><strong>ML Research Engineer · Quality &amp; Training Recipes · Systems/Efficiency</strong></p>
 
