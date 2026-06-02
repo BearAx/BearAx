@@ -92,17 +92,17 @@ For serious ML projects, I try to include:
 - `results.md` with what worked, what failed, and what I would try next
 
 ---
+## GitHub activity
 
-## GitHub activity 
+I keep GitHub focused on reproducible ML work: experiment code, configs, ablation tables, benchmark scripts, and short technical reports.
 
-<div align="center"> 
+<div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&hide_title=true" />
+<br />
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BearAx" />
-
-<img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&hide_border=true" /> 
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BearAx&theme=github_dark" />
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BearAx&theme=github_dark" />
 
 </div>
