@@ -96,16 +96,10 @@ For serious ML projects, I try to include:
 
 <div align="center">
 
-<img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-
 <br />
-<br />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-<br />
 <br />
 
 <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BearAx&theme=github_dark" />
