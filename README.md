@@ -93,19 +93,13 @@ For serious ML projects, I try to include:
 
 ---
 
-## GitHub activity
+## GitHub activity 
 
-<div align="center">
+<div align="center"> 
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&hide_title=true" />
-
-<br />
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BearAx" />
-
-<br />
-
-<img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" /> 
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BearAx&layout=compact&hide_title=true" /> 
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=BearAx" /> 
+<img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&hide_border=true" /> 
 
 </div>
