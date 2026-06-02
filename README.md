@@ -98,7 +98,7 @@ I keep GitHub focused on reproducible ML work: experiment code, configs, ablatio
 
 <div align="center">
 
-<img width="62%" src="https://github-readme-streak-stats.herokuapp.com/?user=BearAx&theme=github-dark-blue&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=BearAx&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
 
 <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=BearAx&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
