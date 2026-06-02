@@ -8,8 +8,7 @@
 I improve AI models where **quality meets systems**: reproducible experiments, controlled ablations, robust evaluation, and training/inference optimization for speed, memory, and cost.
 
 <a href="mailto:medvedguk@gmail.com">Email</a> ·
-<a href="https://github.com/BearAx">GitHub</a> ·
-<a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> ·
+<a href="linkedin.com/in/aleksandr-medvedev-b0279a413">LinkedIn</a> ·
 <a href="cv.pdf">CV</a>
 
 </div>
